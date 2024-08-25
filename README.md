@@ -1,1 +1,1 @@
-Custom Google Maps Readme: 
+Custom Google Maps 
